@@ -1,5 +1,5 @@
 # 本章概要
-主要介绍了了下列知识点
+主要介绍了下列知识点
 1. 监督学习的概念；
 2. 计算图（computational graph）的概念；
 3. 若干术语：observation, target, model(function), parameter(weight), prediction, loss function, representation, learning/training, inference;
